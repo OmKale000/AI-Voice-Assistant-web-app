@@ -16,3 +16,5 @@ streamlit==1.36.0
 python-dotenv==1.0.1
 tavily-python==0.3.5
 firebase-admin==6.5.0
+streamlit==1.45.1
+pillow>=11.2.1
