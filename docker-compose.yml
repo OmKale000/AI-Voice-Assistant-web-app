@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  nexus-ai:
+    build: .
+    ports:
+      - "8000:8000"
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./logs:/app/logs
+    restart: always
