@@ -12,9 +12,8 @@ edge-tts==6.1.12
 tenacity==8.4.1
 cachetools==5.3.3
 slowapi==0.1.9
-streamlit==1.36.0
+streamlit==1.45.1
 python-dotenv==1.0.1
 tavily-python==0.3.5
 firebase-admin==6.5.0
-streamlit==1.45.1
 pillow>=11.2.1
