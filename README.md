@@ -1,4 +1,4 @@
-# 💠 NEXUS ELITE Voice Assistant (V4)
+# 💠 AI ELITE Voice Assistant (V4)
 
 AI Voice Assistant web app is a production-grade AI platform engineered for high performance, persistence, and premium user experience. It transcends basic prototypes by implementing enterprise-level caching, multi-modal failover, and a modern SaaS interface.
 
