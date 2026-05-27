@@ -2,6 +2,8 @@
 
 AI Voice Assistant web app is a production-grade AI platform engineered for high performance, persistence, and premium user experience. It transcends basic prototypes by implementing enterprise-level caching, multi-modal failover, and a modern SaaS interface.
 
+Live Link: https://ai-voice-assistant-web-app.streamlit.app/
+
 ## 🌟 V4 "Elite" Highlights
 
 - **Firebase Persistence:** Conversations are now permanently stored in Firestore, allowing session recovery and chat history browsing.
